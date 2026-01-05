@@ -23,11 +23,13 @@ Backs up specified folders or files at set time intervals
 `How can I use it?` <br />
 - Pick the target directory or files to back up and a directory where the backup files will be saved. Set the name for backup (date and timestamp get added automatically), set the desired interval in minutes (i.e. 15 for every quarter an hour), check &quot;Compression&quot; to compress files if needed and begin the process
 
+## Installation
+
 To install and use this software, simply extract the archive found in `Releases`.
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/22ad4f35-96f1-4d4b-8063-0e908f34db43)
+<img width="424" height="430" alt="Backup Automator" src="https://github.com/user-attachments/assets/cb4ae27e-b69c-40c4-8a35-a0dc7797e5d4" />
 
 
 ## Contact
